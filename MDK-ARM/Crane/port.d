@@ -1,0 +1,12 @@
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/port.c
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/FreeRTOS.h
+crane\port.o: E:\MDK5\ARM\ARMCC\Bin\..\include\stddef.h
+crane\port.o: E:\MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+crane\port.o: ../Core/Inc/FreeRTOSConfig.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/projdefs.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/portable.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/deprecated_definitions.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/portable/RVDS/ARM_CM4F/portmacro.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/mpu_wrappers.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/task.h
+crane\port.o: ../Middlewares/Third_Party/FreeRTOS/Source/include/list.h
